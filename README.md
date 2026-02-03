@@ -8,18 +8,6 @@ Asset Pricing 연구를 위한 Python 라이브러리
 pip install -e .
 ```
 
-추가 기능이 필요한 경우:
-
-```bash
-# Panel Regression 지원
-pip install -e ".[panel]"
-
-# Excel 출력 지원
-pip install -e ".[excel]"
-
-# 전체 기능
-pip install -e ".[full]"
-```
 
 ## 주요 기능
 
